@@ -37,6 +37,9 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-font": "^26.0.0",
+    "@ckeditor/ckeditor5-horizontal-line": "^26.0.0",
+    "@ckeditor/ckeditor5-remove-format": "^26.0.0",
     "schema-utils": "^3.0.0"
   }
 }

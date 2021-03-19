@@ -1,1 +1,1 @@
-!function(n){const i=n.gu=n.gu||{};i.dictionary=Object.assign(i.dictionary||{},{Bold:"ઘાટુ - બોલ્ડ્",Italic:"ત્રાંસુ - ઇટલિક્"}),i.getPluralForm=function(n){return 1!=n}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+!function(i){const n=i.gu=i.gu||{};n.dictionary=Object.assign(n.dictionary||{},{Bold:"ઘાટુ - બોલ્ડ્",Italic:"ત્રાંસુ - ઇટલિક્",Strikethrough:""}),n.getPluralForm=function(i){return 1!=i}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
